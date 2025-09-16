@@ -1,0 +1,8 @@
+C:\Users\Elisio Rey\source\repos\c# learning i think\c# learning i think\bin\Release\c# learning i think.exe.config
+C:\Users\Elisio Rey\source\repos\c# learning i think\c# learning i think\bin\Release\c# learning i think.exe
+C:\Users\Elisio Rey\source\repos\c# learning i think\c# learning i think\bin\Release\c# learning i think.pdb
+C:\Users\Elisio Rey\source\repos\c# learning i think\c# learning i think\obj\Release\c# learning i think.csproj.AssemblyReference.cache
+C:\Users\Elisio Rey\source\repos\c# learning i think\c# learning i think\obj\Release\c# learning i think.csproj.CoreCompileInputs.cache
+C:\Users\Elisio Rey\source\repos\c# learning i think\c# learning i think\obj\Release\c# learning i think.exe
+C:\Users\Elisio Rey\source\repos\c# learning i think\c# learning i think\obj\Release\c# learning i think.pdb
+C:\Users\Elisio Rey\source\repos\c# learning i think\c# learning i think\obj\Release\c# learning i think.exe.config
